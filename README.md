@@ -1,2 +1,0 @@
-# kaapa.pl
-kaapa.pl
